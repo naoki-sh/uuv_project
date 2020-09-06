@@ -1,5 +1,5 @@
 ---
-title: "Welcome to CICP2019 UUV project web page!"
+title: "Welcome to UUV project web page!"
 layout: splash
 permalink: /home/
 date: 2016-03-23T11:48:41-04:00
